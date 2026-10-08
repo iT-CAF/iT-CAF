@@ -46,7 +46,7 @@
 ### `{ }` Contact · تواصل
 
 <p>
-  <a href="https://it-caf.com"><img alt="it-caf.com" src="https://img.shields.io/badge/it--caf.com-E8A33D?style=flat-square&labelColor=0E1113&color=E8A33D&logo=googlechrome&logoColor=0E1113"></a>
+  <a href="https://it-caf.com"><img alt="it-caf.com" src="https://img.shields.io/badge/it--caf.com-E8A33D?style=flat-square"></a>
   <a href="https://x.com/ivd_2"><img alt="X @ivd_2" src="https://img.shields.io/badge/@ivd__2-0E1113?style=flat-square&logo=x&logoColor=EDE8DF"></a>
 </p>
 
